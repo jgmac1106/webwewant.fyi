@@ -5,7 +5,11 @@ date: 2019-01-04T00:00:00.000Z
 permalink: /voting/
 ---
 
-We are using votes as a way of seeing how much community interest there is in various wants from this site. The browser vendors and standards bodies involved with this effort will take vote tallies into account when it comes considering which gaps or improvements we should consider and how we should prioritize them.
+We are using votes as a way of seeing how much community interest there is in various wants from this site. 
+
+To vote you can send a submission from your website or just click the social media below issues that interest you.
+
+We hope you vote from your own website. The browser vendors and standards bodies involved with this effort will take vote tallies into account when it comes considering which gaps or improvements we should consider and how we should prioritize them.
 
 Our voting system is a little different than most sites because we respect your privacy. We don’t want to require you to have an account on this site because (frankly) we have no interest in your personal information. We also want you to own your vote, so we opted to use [webmentions](https://indieweb.org/Webmention) as our voting system.
 
